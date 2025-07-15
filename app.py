@@ -15,7 +15,7 @@ IMG_SIZE = (224, 224)
 class_names = ['Anthracnose', 'Dry_Leaf', 'Healthy', 'Leaf_Spot']
 
 # Model configuration
-MODEL_URL = "https://your-cloud-storage-url/rubber_leaf_model_best.h5"  # Replace with your URL
+MODEL_URL = "https://drive.google.com/uc?export=download&id=17mjRSbvbkOuaF4_-khgyVinbKuMn1tsR"  # Replace with your URL
 MODEL_PATH = "rubber_leaf_model_best.h5"
 MODEL_CHECKSUM = "your-model-checksum"  # Optional: for integrity check
 
